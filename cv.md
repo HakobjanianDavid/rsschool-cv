@@ -22,5 +22,5 @@ I am 22 years old. Until recently, I was a student of the Medical univercity. At
 
 ## Code examples
 1. To do-app (Vue.js) <https://github.com/HakobjanianDavid/todo>
-2. Test layout (HTML+CSS) <https://github.com/HakobjanianDavid/>
+2. Test layout (HTML+CSS) <https://github.com/HakobjanianDavid/Layout-Golden->
 3. Tabs-test (JS) <https://github.com/HakobjanianDavid/Tabs-test>
