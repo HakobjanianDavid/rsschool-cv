@@ -24,3 +24,19 @@ I am 22 years old. Until recently, I was a student of the Medical univercity. At
 1. To do-app (Vue.js) <https://github.com/HakobjanianDavid/todo>
 2. Test layout (HTML+CSS) <https://github.com/HakobjanianDavid/Layout-Golden->
 3. Tabs-test (JS) <https://github.com/HakobjanianDavid/Tabs-test>
+## Skills  
+- JavaScript(ES6), HTML5, CSS3, LESS, DOM, Git
+- English: Intermediate
+
+## Education
+1. I am gratuated from Samara Medical Univercity in 2019, with a degree in farmacy.  
+2. HTML-academy (*HTml, SCC, JS, LESS*)
+3. Udemy-course (*Full JavaScript course. From: Ivan Petrichenko*)
+
+## Code examples
+1. To do-app (Vue.js) <https://github.com/HakobjanianDavid/todo>
+2. Test layout (HTML+CSS) <https://github.com/HakobjanianDavid/Layout-Golden->
+3. Tabs-test (JS) <https://github.com/HakobjanianDavid/Tabs-test>
+
+## English
+English has always been my hobby. At the university, I was fortunate enough to communicate with students who are English speakers. I can read books and various technical articles in English using rarely a dictionary.
